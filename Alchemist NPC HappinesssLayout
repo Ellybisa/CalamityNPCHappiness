@@ -1,0 +1,53 @@
+Forest Biome
+    NPCs: Alchemist, Brewer, Jeweler
+    Happiness: Alchemist (+17), Brewer (+22), Jeweler (+17)
+
+Jungle Biome
+    NPCs: Dryad, Painter, Architect (AlchemistNPC)
+    Happiness: Dryad (+17), Painter (+42), Architect (+27)
+
+Snow Biome
+    NPCs: Mechanic, Goblin Tinkerer, Operator (AlchemistNPC)
+    Happiness: Mechanic (+42), Goblin Tinkerer (+30), Operator (+17)
+
+Hallow Biome
+    NPCs: Party Girl, Wizard, Musician (AlchemistNPC)
+    Happiness: Party Girl (+42), Wizard (+17), Musician (+27)
+
+Astral Biome
+    NPCs: Young Brewer (AlchemistNPC), Merchant, Golfer
+    Happiness: Young Brewer (+17), Merchant (+22), Golfer (-8)
+
+Ocean Biome
+    NPCs: Sea King, Angler, Pirate
+    Happiness: Sea King (+3), Angler (+17), Pirate (+22)
+
+Desert Biome
+    NPCs: Arms Dealer, Steampunker, Bandit
+    Happiness: All at (+17) - perfectly balanced
+
+Cavern Biome - Underground Base
+    NPCs: Demolitionist, Tavernkeep, Tax Collector
+    Happiness: Demolitionist (+42), Tavernkeep (+30), Tax Collector (0)
+
+
+Mushroom Biome
+    NPCs: Truffle, Guide, Clothier
+    Happiness: Truffle (+17), Guide (+10), Clothier (+10)
+
+Sulphur Biome
+    NPCs: Stylist, Princess, Automaton
+    Happiness: Stylist (+22), Princess (+15), Automaton (+5)
+
+Crags Biome
+    NPCs: Dye Trader, Nurse, Witch Doctor
+    Happiness: Dye Trader (+17), Nurse (+5), Witch Doctor (-32)
+
+Sunken Biome - Remote Outpost
+    NPCs: Cyborg, Archmage, Santa Claus
+    Happiness: Cyborg (+5), Archmage (0), Santa Claus (+5)
+
+Forest Secondary - Solo Station
+    NPCs: Zoologist
+    Happiness: Zoologist (+5)
+
